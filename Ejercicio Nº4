@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>StyleCss</title>
+</head>
+
+<body>
+    <h1>Incio practica css</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, impedit aperiam. Quo optio deserunt laborum, quidem quaerat cupiditate voluptas porro illum labore eius ipsam id commodi magnam tempora voluptatem suscipit!</p>
+    <p class="miparrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, accusamus laudantium deleniti aliquid repellendus ad obcaecati odit aut, vitae esse molestias eligendi recusandae iste sequi porro quia natus, qui libero?</p>
+</body>
+</html>
